@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Runner-up — Atharva CoET Projecthon 2.0 (2024)",
+    "imageSrc": "achievements/athrava.jpeg",
+    "lines": [
+      "National-level competition (Mumbai, 2024)",
+      "Driverless car project showcased"
+    ]
+  },
+  {
+    "title": "Avishkar — Mumbai University (2024)",
+    "imageSrc": "achievements/avishkar.jpeg",
+    "lines": [
+      "Cleared two rounds",
+      "Smart invoice management with automated GST"
+    ]
+  },
+  {
+    "title": "SEVC — Solar Electric Vehicle Championship (2024)",
+    "imageSrc": "achievements/sevc.jpeg",
+    "lines": [
+      "Won 1st prize (March 2024)",
+      "Certificate of participation"
+    ]
+  },
+  {
+    "title": "ESVC — Electric Solar Vehicle Championship (2023)",
+    "imageSrc": "achievements/ESVC.jpg",
+    "lines": [
+      "Competition participation",
+      "Team solar-electric vehicle build"
+    ]
+  }
+]

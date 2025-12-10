@@ -1,0 +1,92 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 26px;
+  width: 400px;
+  min-height: 400px;
+  min-width: 350px;
+  scroll-snap-align: start;
+  transition: background 200ms ease, transform 200ms ease;
+}
+
+.container:hover {
+  background: linear-gradient(180deg, #c9a227 0%, #0b0b0b 100%);
+  transform: translateY(-2px);
+}
+
+.image {
+  margin-bottom: 26px;
+  width: 100%;
+  height: 160px;
+  object-fit: contain; /* show full image, no cropping */
+  border-radius: 8px;
+  background: rgba(0,0,0,0.2);
+  transition: filter 200ms ease;
+}
+
+.image:hover {
+  filter: sepia(60%) saturate(200%) hue-rotate(10deg) brightness(1.1);
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  min-height: 48px; /* keep headline on same level across cards */
+}
+.subheading {
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  opacity: 0.9;
+}
+
+.description {
+  margin-top: 6px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+}
+
+.skill {
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 2px 22px;
+}
+
+.links {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Keep content distributed and tools/links near bottom for consistent alignment */
+.container {
+  justify-content: space-between;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 100px;
+  background: var(--color-primary);
+  padding: 1px 22px;
+}

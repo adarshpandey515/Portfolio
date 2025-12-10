@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Autonomous Head",
+    "organisation": "VCET Solecthon",
+    "startDate": "2023",
+    "endDate": "Present",
+    "experiences": [
+      "Led 5-member team; improved delivery cadence",
+      "ROS: perception, localization, planning, navigation (+15% reliability)",
+      "PyTorch + OpenCV: 20% faster embedded inference",
+      "Managed testing, deployment, documentation",
+      "Link"
+    ],
+    "link": "https://vcet.edu.in/VcetSolecthon/",
+    "imageSrc": "history/solecthon.svg"
+  },
+  {
+    "role": "Intern",
+    "organisation": "YPP Technology",
+    "startDate": "Dec, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Web Developer (MERN) internship completed (Dec 2023–Jan 2024)",
+      "Built web pages and internship form; Node/Express backend",
+      "Implemented Gmail notifications; improved workflows",
+      "Delivered robust features; problem-solving and teamwork"
+    ],
+    "imageSrc": "history/ypp.png"
+  }
+]

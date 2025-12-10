@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Crop Disease Detection — Model Distillation",
+    "imageSrc": "projects/crop.png",
+    "description": "YOLOv8x→YOLOv8n distillation: +2.1% acc, −18% latency; −12MB size for mobile.",
+    "skills": ["PyTorch", "YOLOv8", "OpenCV", "Python"],
+    "demo": "https://docs.google.com/document/d/1xqP1zXPgrl9Q_pkhQF95DoJrxrB-6s2C",
+    "source": "https://colab.research.google.com/drive/1YUVIxzXd_ZTCg194jlpTo5UMlJ2nGoje?usp=sharing"
+  },
+  {
+    "title": "MJ App — Gold Loan Tracking",
+    "imageSrc": "projects/mj.png",
+    "description": "React Native + Expo; SQLite, Gmail reminders, PDF invoices, Excel export; −60% manual tracking.",
+    "skills": ["React Native", "Expo", "SQLite", "Node", "PDF", "Excel"],
+    "demo": "https://drive.google.com/file/d/1Pj0yzALMn0ds9dKvQ7GT8DEOQfI5VeUS/view",
+    "source": "https://github.com/adarshpandey515/glapp"
+  },
+  {
+    "title": "Geofence Monitoring App — LLM & Firebase",
+    "imageSrc": "projects/project.png",
+    "description": "Flutter admin/employee apps; Firebase RTDB/Firestore (<2s); Gemini RAG cuts admin time by 35%.",
+    "skills": ["Flutter", "Firebase", "Firestore", "Realtime DB", "Gemini", "RAG"],
+    "demo": "https://drive.google.com/file/d/1LWrC8euRsamtOwBlQytw-QbXBZsnWHPQ/view?usp=sharing",
+    "source": "https://github.com/arpitsingh39/TechMaharajas"
+  },
+  {
+    "title": "Tic-Tac-Toe (AI)",
+    "imageSrc": "projects/tictactoe.png",
+    "description": "PvP + AI (Minimax); undo/redo, music; desktop UI with Java Swing.",
+    "skills": ["Java", "Swing", "AI", "Minimax"],
+    "demo": "https://www.youtube.com/watch?v=A9wHHVtpnGs",
+    "source": "https://github.com/adarshpandey515/tic-tac-toe-ai?tab=readme-ov-file"
+  },
+  {
+    "title": "Driverless Perception & Navigation — ROS",
+    "imageSrc": "projects/driverless.jpg",
+    "description": "ROS-based perception, localization, planning, navigation; +15% navigation reliability (team code).",
+    "skills": ["ROS", "C++", "Python", "Navigation"],
+    "demo": "https://vcet.edu.in/VcetSolecthon/pages/driverless.html",
+    "source": "#"
+  },
+  {
+    "title": "Solecthon New Website — Next.js",
+    "imageSrc": "projects/newcar.jpg",
+    "description": "Next.js website in development; components, pages, 3D assets; preview deployed.",
+    "skills": ["Next.js", "React", "Three.js", "Vercel"],
+    "demo": "https://vcet.edu.in/VcetSolecthon/",
+    "source": "https://github.com/VCET-Driverless/SolecthonNextJSWebsite"
+  },
+  {
+    "title": "3D Restaurant Menu — Web",
+    "imageSrc": "projects/logo.png",
+    "description": "Interactive 3D menu with ordering + kitchen notifications; deployed on Vercel.",
+    "skills": ["React", "Three.js", "Vite", "Node"],
+    "demo": "https://etaversenew.vercel.app/",
+    "source": "https://github.com/adarshpandey515/etaversenew"
+  }
+]

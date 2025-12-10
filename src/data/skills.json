@@ -1,0 +1,41 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {"title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "Cpp",
+    "imageSrc": "skills/cpp.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python2.png"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/pytorch.png"
+  },
+  {
+    "title": "ROS",
+    "imageSrc": "skills/ros.png"
+  }
+
+]
